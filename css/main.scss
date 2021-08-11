@@ -76,7 +76,7 @@ a {
     width: 100px;
     height: 100px;
     z-index: 10;
-    background-color: #ff2a2a;
+    background-color: #ffbf1f;
     cursor: pointer;
     
 
@@ -140,7 +140,7 @@ a {
 /*burger-menu
 -------------------------------------------*/
  .burger-menu {
-     background-color: #ff2a2a;
+     background-color: #ffbf1f;
      width: 100%;
      z-index: 5;
      height: 100vh;
@@ -200,7 +200,7 @@ a {
                 background-color: #fff;
 
               a {
-                  color: #ff2a2a; 
+                  color: #ffbf1f; 
               }  
                
             }
@@ -230,8 +230,8 @@ a {
         z-index: 3;
 
         .button {
-           background-color: #ff2a2a;
-           border-bottom: 6px solid #9a0413;
+           background-color: #ffbf1f;
+           border-bottom: 6px solid #755b04;
            border-radius: 10px;
            color: #fff;
            font-size: 1.5rem;
@@ -338,7 +338,7 @@ a {
     margin-bottom: 120px;
 
     .bg {
-        background-color: #ff2a2a;
+        background-color: #ffbf1f;
         padding: 80px 0;
     }
 
@@ -352,7 +352,7 @@ a {
         opacity: 0;
 
         .title {
-            color: #ff2a2a;
+            color: #ffbf1f;
             font-size: 1.75rem;
             font-weight: bold;
             display: block;
@@ -501,7 +501,7 @@ a {
 #summary {
     padding: 60px 0;
     margin-bottom: 120px;
-    background: url(../img/bg.gif) repeat;
+    background: url(../img/bgy.png) repeat;
     animation: bgroop 10s infinite linear;
 
     #summary-bg {
@@ -567,15 +567,15 @@ a {
         font-weight: bold;
         color: #fff;
         width: 100%;
-        border: 3px solid #ff2a2a;
-        background-color: #ff2a2a;
+        border: 3px solid #ffbf1f;
+        background-color: #ffbf1f;
         border-radius: 40px;
         padding: 15px 0;
         transition: 0.3s;
 
         &:hover {
             background-color: #fff;
-            color: #ff2a2a;
+            color: #ffbf1f;
         }
     }
      
